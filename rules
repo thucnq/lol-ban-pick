@@ -1,0 +1,9 @@
+Antecedent => Consequent,Confidence,Lift,Support
+Lucian Tahm Kench => Sion,1.000000,13.230769,0.005814
+Kennen Aatrox => Braum,1.000000,4.680272,0.005814
+Ezreal Olaf Urgot => Tahm Kench,1.000000,6.311927,0.005814
+Ezreal Jayce Lee Sin => Tahm Kench,1.000000,6.311927,0.007267
+Rakan Urgot => Xayah,1.000000,19.657143,0.008721
+Braum Elise => Jayce,1.000000,8.493827,0.005814
+Tahm Kench Camille => Ezreal,1.000000,6.811881,0.005814
+Jarvan IV Tristana => Galio,1.000000,5.134328,0.005814

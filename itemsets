@@ -1,0 +1,818 @@
+Itemset,Support
+Varus 0.061047
+Ryze Varus 0.010174
+Ryze Tahm Kench Varus 0.005814
+Galio Varus 0.005814
+Varus Urgot 0.005814
+Braum Varus 0.013081
+Tahm Kench Varus 0.024709
+Jarvan IV Varus 0.010174
+Morgana Varus 0.008721
+Jayce Varus 0.005814
+Varus Sylas 0.005814
+Vladimir Varus 0.005814
+Rek'Sai Varus 0.014535
+Tahm Kench Rek'Sai Varus 0.005814
+Olaf Varus 0.005814
+Kennen Varus 0.015988
+Kennen Braum Varus 0.005814
+Kennen Tahm Kench Varus 0.007267
+Irelia Varus 0.007267
+Varus LeBlanc 0.005814
+Varus Lee Sin 0.007267
+Vladimir 0.109012
+Vladimir Aatrox 0.011628
+Alistar Vladimir 0.007267
+Vladimir Lee Sin 0.013081
+Vladimir Rek'Sai 0.020349
+Vladimir Lissandra 0.015988
+Jarvan IV Vladimir Lissandra 0.005814
+Vladimir Lissandra Lee Sin 0.007267
+Galio Vladimir Lissandra 0.005814
+Ezreal Vladimir 0.005814
+Jarvan IV Vladimir 0.014535
+Vladimir Tahm Kench 0.015988
+Vladimir Lucian 0.007267
+Vladimir Zoe 0.013081
+Vladimir Urgot 0.013081
+Kai'Sa Vladimir 0.015988
+Galio Vladimir 0.017442
+Ryze Vladimir 0.005814
+Vladimir Braum 0.018895
+Morgana 0.065407
+Kai'Sa Morgana 0.007267
+Morgana Lee Sin 0.005814
+Irelia Morgana 0.010174
+Ryze Morgana 0.005814
+Morgana Kalista 0.005814
+Morgana Lissandra 0.011628
+Jarvan IV Morgana Lissandra 0.007267
+Vladimir Morgana 0.007267
+Morgana Rek'Sai 0.010174
+Morgana Akali 0.008721
+Morgana Lucian 0.013081
+Jayce Morgana 0.008721
+Olaf Morgana 0.010174
+Jarvan IV Morgana 0.015988
+Sion 0.075581
+Sion Lee Sin 0.010174
+Kai'Sa Sion Lee Sin 0.005814
+Alistar Sion 0.011628
+Alistar Kai'Sa Sion 0.005814
+Kai'Sa Sion 0.023256
+Sion Aatrox 0.010174
+Tahm Kench Sion 0.011628
+Sion Zoe 0.014535
+Tahm Kench Sion Zoe 0.005814
+Ezreal Sion 0.008721
+Akali Sion 0.014535
+Vladimir Sion 0.007267
+Galio Sion 0.008721
+Lucian Sion 0.014535
+Lucian Tahm Kench Sion 0.005814
+Olaf Sion 0.005814
+Lissandra Sion 0.005814
+Thresh Sion 0.008721
+Kha'Zix 0.034884
+Lissandra Kha'Zix 0.008721
+Ryze Kha'Zix 0.005814
+Thresh Kha'Zix 0.008721
+Lucian Kha'Zix 0.005814
+Alistar Kha'Zix 0.008721
+Galio Kha'Zix 0.010174
+Kha'Zix Zoe 0.005814
+Akali Kha'Zix 0.005814
+Ezreal Kha'Zix 0.007267
+Cho'Gath 0.008721
+Lulu 0.011628
+Fiora 0.014535
+Ezreal Fiora 0.005814
+Lissandra Fiora 0.005814
+Sivir 0.061047
+Alistar Sivir 0.015988
+Galio Sivir 0.008721
+Ryze Sivir 0.008721
+Olaf Sivir 0.005814
+Sivir Braum 0.011628
+Jarvan IV Sivir 0.008721
+Sivir Lissandra 0.007267
+Sivir Urgot 0.011628
+Sivir Morgana 0.005814
+Sivir Lee Sin 0.011628
+Sivir Tahm Kench 0.011628
+Sivir LeBlanc 0.008721
+Vladimir Sivir 0.013081
+Sivir Aatrox 0.010174
+Jayce Sivir 0.007267
+Sivir Zoe 0.005814
+Sivir Gragas 0.007267
+Akali 0.093023
+Olaf Akali 0.008721
+Vladimir Akali 0.008721
+Akali Braum 0.018895
+Galio Akali 0.015988
+Ezreal Akali 0.018895
+Ezreal Galio Akali 0.005814
+Akali Aatrox 0.008721
+Alistar Akali 0.010174
+Akali Lucian 0.015988
+Akali Lucian Braum 0.007267
+Akali Rek'Sai 0.014535
+Jarvan IV Akali 0.005814
+Akali Lee Sin 0.010174
+Akali Braum Lee Sin 0.005814
+Kai'Sa Akali 0.015988
+Akali Tahm Kench 0.005814
+Akali Lissandra 0.008721
+Swain 0.014535
+Jayce Swain 0.005814
+Braum Swain 0.007267
+Syndra 0.052326
+Galio Syndra 0.005814
+Olaf Syndra 0.005814
+Kai'Sa Syndra 0.010174
+Vayne Syndra 0.005814
+Ezreal Syndra 0.010174
+Syndra Lee Sin 0.005814
+Braum Syndra 0.010174
+Jarvan IV Syndra 0.014535
+Syndra Xin Zhao 0.005814
+Lucian Syndra 0.005814
+Rek'Sai Syndra 0.005814
+Tahm Kench Syndra 0.008721
+Jayce Syndra 0.010174
+Varus Syndra 0.005814
+Sylas 0.063953
+Lissandra Sylas 0.007267
+Thresh Sylas 0.005814
+Rek'Sai Sylas 0.008721
+Tahm Kench Rek'Sai Sylas 0.005814
+Ezreal Sylas 0.007267
+Vladimir Sylas 0.007267
+Galio Sylas 0.011628
+Lucian Sylas 0.007267
+Sylas Lee Sin 0.018895
+Kalista Sylas 0.010174
+Kai'Sa Sylas 0.007267
+Olaf Sylas 0.005814
+Gragas Sylas 0.005814
+Jarvan IV Sylas 0.008721
+Ashe Sylas 0.007267
+Tahm Kench Ashe Sylas 0.005814
+Braum Sylas 0.014535
+LeBlanc Sylas 0.005814
+Tahm Kench Sylas 0.017442
+Tahm Kench Sylas Lee Sin 0.005814
+Sona 0.008721
+Sona Taric 0.007267
+Shen 0.034884
+Nocturne Shen 0.007267
+Sivir Shen 0.005814
+Lissandra Shen 0.005814
+Aatrox Shen 0.013081
+Akali Shen 0.007267
+Urgot Shen 0.010174
+Vladimir Shen 0.008721
+Lucian Shen 0.005814
+Zoe Shen 0.008721
+Ezreal Shen 0.005814
+Kennen 0.077035
+Kennen Rek'Sai 0.015988
+Thresh Kennen 0.008721
+Kennen Urgot 0.008721
+Kennen Braum Urgot 0.005814
+Kennen Lucian 0.013081
+Kennen Lucian Braum 0.007267
+Kennen Aatrox 0.005814
+Kennen Braum Aatrox 0.005814
+Kennen Tahm Kench 0.014535
+Ryze Kennen 0.007267
+Kennen Lissandra 0.005814
+Kennen Lee Sin 0.011628
+Kai'Sa Kennen Lee Sin 0.008721
+Olaf Kennen 0.010174
+Olaf Kennen Braum 0.005814
+Galio Kennen 0.011628
+Kai'Sa Kennen 0.014535
+Kennen Braum 0.024709
+Ezreal Kennen 0.011628
+Jarvan IV Kennen 0.013081
+Jarvan IV Kennen Braum 0.005814
+Aatrox 0.127907
+Jarvan IV Aatrox 0.013081
+Jarvan IV Braum Aatrox 0.005814
+Kai'Sa Aatrox 0.021802
+Galio Kai'Sa Aatrox 0.005814
+Aatrox Urgot 0.011628
+Lucian Aatrox 0.015988
+Lucian Braum Aatrox 0.005814
+Aatrox Lee Sin 0.017442
+Lissandra Aatrox 0.014535
+Braum Lissandra Aatrox 0.008721
+Braum Aatrox 0.031977
+Tahm Kench Aatrox 0.014535
+Ezreal Aatrox 0.021802
+Ezreal Galio Aatrox 0.005814
+Ezreal Tahm Kench Aatrox 0.007267
+Galio Aatrox 0.027616
+Zac 0.030523
+Galio Zac 0.005814
+Kai'Sa Zac 0.008721
+Zac Urgot 0.007267
+Lucian Zac 0.008721
+Braum Zac 0.013081
+Lissandra Zac 0.005814
+Gragas 0.072674
+Alistar Gragas 0.008721
+Sion Gragas 0.005814
+Ezreal Gragas 0.008721
+Lucian Gragas 0.010174
+Aatrox Gragas 0.007267
+Kai'Sa Gragas 0.018895
+Thresh Gragas 0.007267
+Lissandra Gragas 0.010174
+Kai'Sa Lissandra Gragas 0.005814
+Zoe Gragas 0.007267
+Gragas Lee Sin 0.011628
+Kai'Sa Gragas Lee Sin 0.007267
+Gragas Urgot 0.015988
+Kai'Sa Gragas Urgot 0.007267
+Galio Gragas 0.008721
+Gragas Kalista 0.007267
+Jarvan IV Gragas 0.005814
+Akali Gragas 0.007267
+Vladimir Gragas 0.007267
+Jayce Gragas 0.011628
+Darius 0.005814
+Riven 0.011628
+Yasuo 0.040698
+Yasuo Yorick 0.005814
+Yasuo Lee Sin 0.005814
+Braum Yasuo 0.010174
+Gragas Yasuo 0.021802
+Lucian Gragas Yasuo 0.008721
+Galio Yasuo 0.008721
+Yasuo Kalista 0.007267
+Jarvan IV Yasuo 0.005814
+Lucian Yasuo 0.014535
+Lucian Braum Yasuo 0.005814
+Orianna 0.013081
+Jarvan IV Orianna 0.007267
+Neeko 0.017442
+Karthus 0.014535
+Varus Karthus 0.005814
+Olaf 0.097384
+Kai'Sa Olaf 0.010174
+Olaf Urgot 0.013081
+Olaf Tahm Kench Urgot 0.007267
+Ezreal Olaf Urgot 0.005814
+Ezreal Olaf Tahm Kench Urgot 0.005814
+Olaf Braum 0.024709
+Olaf Lucian 0.013081
+Olaf Lucian Braum 0.008721
+Olaf Tahm Kench 0.026163
+Ryze Olaf 0.014535
+Vladimir Olaf 0.007267
+Olaf Zoe 0.018895
+Olaf Braum Zoe 0.005814
+Olaf Tahm Kench Zoe 0.008721
+Olaf Aatrox 0.013081
+Galio Olaf 0.013081
+Olaf Lissandra 0.005814
+Jayce Olaf 0.007267
+Ezreal Olaf 0.017442
+Ezreal Olaf Tahm Kench 0.008721
+Alistar Olaf 0.007267
+Thresh Olaf 0.011628
+Kai'Sa Thresh Olaf 0.005814
+Poppy 0.013081
+Jarvan IV Poppy 0.007267
+Draven 0.021802
+Aatrox Draven 0.005814
+Thresh Draven 0.010174
+Galio Draven 0.005814
+LeBlanc Draven 0.005814
+Kog'Maw 0.011628
+Braum Kog'Maw 0.010174
+Jax 0.023256
+Akali Jax 0.007267
+Lissandra Jax 0.005814
+Alistar Jax 0.005814
+Xin Zhao 0.053779
+Galio Xin Zhao 0.008721
+Kai'Sa Xin Zhao 0.008721
+Alistar Xin Zhao 0.010174
+Urgot Xin Zhao 0.014535
+Ezreal Urgot Xin Zhao 0.005814
+Akali Xin Zhao 0.008721
+Zoe Xin Zhao 0.010174
+Sion Xin Zhao 0.005814
+Rakan Xin Zhao 0.008721
+Tahm Kench Xin Zhao 0.007267
+Ezreal Xin Zhao 0.014535
+Viktor Xin Zhao 0.008721
+Ezreal Viktor Xin Zhao 0.005814
+Viktor Urgot Xin Zhao 0.005814
+Lucian Xin Zhao 0.008721
+Lucian Braum Xin Zhao 0.005814
+Braum Xin Zhao 0.011628
+Lissandra Xin Zhao 0.011628
+Aatrox Xin Zhao 0.008721
+Jarvan IV 0.171512
+Jarvan IV Galio 0.034884
+Jarvan IV Braum 0.047965
+Tahm Kench 0.158430
+Jarvan IV Tahm Kench 0.018895
+Tahm Kench Lee Sin 0.031977
+Galio Tahm Kench 0.008721
+Kai'Sa Tahm Kench 0.008721
+Kayle 0.018895
+Tahm Kench Kayle 0.005814
+Jarvan IV Kayle 0.005814
+Rek'Sai Kayle 0.005814
+LeBlanc 0.078488
+Ezreal LeBlanc 0.014535
+Ezreal Tahm Kench LeBlanc 0.005814
+Rek'Sai LeBlanc 0.008721
+Galio LeBlanc 0.010174
+LeBlanc Urgot 0.011628
+Aatrox LeBlanc 0.014535
+Tahm Kench LeBlanc 0.018895
+Tahm Kench LeBlanc Lee Sin 0.007267
+Braum LeBlanc 0.015988
+Kai'Sa LeBlanc 0.011628
+Vladimir LeBlanc 0.007267
+Vladimir Braum LeBlanc 0.005814
+Jarvan IV LeBlanc 0.007267
+Thresh LeBlanc 0.005814
+Alistar LeBlanc 0.014535
+Olaf LeBlanc 0.015988
+Olaf Tahm Kench LeBlanc 0.005814
+LeBlanc Lee Sin 0.021802
+Jayce LeBlanc 0.008721
+Jayce LeBlanc Lee Sin 0.005814
+Galio 0.194767
+Galio Braum 0.008721
+Azir 0.034884
+Azir Tahm Kench 0.005814
+Azir Thresh 0.008721
+Azir Lucian 0.007267
+Jarvan IV Azir 0.008721
+Jayce Azir 0.011628
+Azir Xayah 0.005814
+Azir Kennen 0.005814
+Azir Rek'Sai 0.008721
+Rakan 0.074128
+Rakan Lissandra 0.010174
+Rakan Lucian 0.008721
+Rakan Vladimir 0.014535
+Rakan Lee Sin 0.007267
+Rakan Aatrox 0.005814
+Rakan Sion 0.014535
+Rakan Kai'Sa Sion 0.008721
+Ezreal Rakan 0.005814
+Rakan Rek'Sai 0.008721
+Rakan Kai'Sa 0.014535
+Galio Rakan 0.011628
+Ryze Rakan 0.011628
+Ryze Rakan Kai'Sa 0.005814
+Rakan Akali 0.014535
+Rakan Urgot 0.008721
+Rakan Olaf 0.005814
+Vayne 0.061047
+Vayne Rek'Sai 0.005814
+Vayne Lee Sin 0.008721
+Vayne LeBlanc 0.005814
+Jarvan IV Vayne 0.020349
+Jarvan IV Braum Vayne 0.011628
+Vladimir Vayne 0.007267
+Morgana Vayne 0.005814
+Braum Vayne 0.027616
+Galio Vayne 0.010174
+Olaf Vayne 0.008721
+Olaf Braum Vayne 0.005814
+Akali Vayne 0.010174
+Vayne Lissandra 0.017442
+Jarvan IV Vayne Lissandra 0.007267
+Braum Vayne Lissandra 0.007267
+Alistar Vayne 0.008721
+Jayce Vayne 0.007267
+Caitlyn 0.007267
+Morgana Caitlyn 0.005814
+Skarner 0.030523
+Jayce Skarner 0.005814
+Galio Skarner 0.007267
+Skarner Syndra 0.005814
+Ryze Skarner 0.007267
+Lucian Skarner 0.007267
+Kai'Sa Skarner 0.005814
+Zoe 0.114826
+Zoe Lee Sin 0.026163
+Aatrox Zoe 0.011628
+Zoe Urgot 0.021802
+Kai'Sa Zoe Urgot 0.007267
+Zoe Urgot Lee Sin 0.007267
+Ezreal Zoe 0.020349
+Ezreal Tahm Kench Zoe 0.007267
+Braum Zoe 0.015988
+Jarvan IV Zoe 0.008721
+Galio Zoe 0.014535
+Alistar Zoe 0.020349
+Alistar Zoe Urgot 0.005814
+Alistar Zoe Lee Sin 0.008721
+Alistar Kai'Sa Zoe 0.005814
+Tahm Kench Zoe 0.020349
+Kai'Sa Zoe 0.017442
+Jayce Zoe 0.008721
+Ryze Zoe 0.007267
+Lucian Zoe 0.013081
+Cassiopeia 0.030523
+Lee Sin Cassiopeia 0.007267
+Galio Cassiopeia 0.007267
+Alistar Cassiopeia 0.005814
+Urgot Cassiopeia 0.008721
+Braum Cassiopeia 0.005814
+Yorick 0.049419
+Braum Yorick 0.013081
+Ashe Yorick 0.005814
+Lucian Yorick 0.005814
+Olaf Yorick 0.007267
+Jarvan IV Yorick 0.008721
+Lee Sin Yorick 0.008721
+Alistar Yorick 0.005814
+Kalista Yorick 0.013081
+Lissandra Yorick 0.008721
+Zoe Yorick 0.011628
+Rakan Yorick 0.005814
+Galio Yorick 0.010174
+Kindred 0.015988
+Braum Kindred 0.011628
+Lissandra Kindred 0.005814
+Corki 0.056686
+Kennen Corki 0.007267
+Lucian Corki 0.011628
+Jarvan IV Corki 0.018895
+Jarvan IV Braum Corki 0.007267
+Ryze Corki 0.007267
+Kai'Sa Corki 0.010174
+Galio Kai'Sa Corki 0.005814
+Galio Corki 0.014535
+Thresh Corki 0.013081
+Thresh Lucian Corki 0.005814
+Corki Lee Sin 0.005814
+Braum Corki 0.014535
+Corki Aatrox 0.005814
+Corki Kalista 0.008721
+Jayce Corki 0.007267
+Sion Corki 0.005814
+Tahm Kench Corki 0.007267
+Gangplank 0.033430
+Morgana Gangplank 0.007267
+Tahm Kench Gangplank 0.008721
+Braum Gangplank 0.005814
+Lucian Gangplank 0.005814
+Varus Gangplank 0.007267
+Alistar Gangplank 0.007267
+Hecarim 0.033430
+Thresh Hecarim 0.005814
+Kai'Sa Hecarim 0.008721
+Jarvan IV Hecarim 0.011628
+Galio Hecarim 0.007267
+Ryze Hecarim 0.005814
+Karma 0.017442
+Aurelion Sol 0.007267
+Leona 0.007267
+Ezreal 0.146802
+Ezreal Jarvan IV 0.021802
+Ezreal Tahm Kench 0.049419
+Ezreal Jarvan IV Tahm Kench 0.005814
+Ezreal Tahm Kench Lee Sin 0.010174
+Ezreal Braum 0.033430
+Ezreal Lee Sin 0.020349
+Ezreal Braum Lee Sin 0.005814
+Ezreal Lissandra 0.027616
+Ezreal Jarvan IV Lissandra 0.007267
+Ezreal Tahm Kench Lissandra 0.007267
+Ezreal Braum Lissandra 0.010174
+Ezreal Galio 0.023256
+Jayce 0.117733
+Jayce Lee Sin 0.020349
+Jayce Lucian 0.014535
+Jayce Jarvan IV 0.013081
+Ezreal Jayce 0.024709
+Ezreal Jayce Tahm Kench 0.014535
+Ezreal Jayce Tahm Kench Lee Sin 0.007267
+Ezreal Jayce Lee Sin 0.007267
+Jayce Tahm Kench 0.023256
+Jayce Tahm Kench Lee Sin 0.011628
+Alistar Jayce 0.011628
+Jayce Braum 0.020349
+Jayce Lissandra 0.013081
+Jayce Galio 0.023256
+Jayce Kai'Sa 0.020349
+Jayce Galio Kai'Sa 0.008721
+Ryze Jayce 0.008721
+Braum 0.213663
+Lissandra 0.155523
+Tahm Kench Lissandra 0.018895
+Tahm Kench Lissandra Lee Sin 0.005814
+Braum Lissandra 0.043605
+Kai'Sa Lissandra 0.024709
+Galio Lissandra 0.023256
+Jarvan IV Lissandra 0.037791
+Jarvan IV Braum Lissandra 0.010174
+Lissandra Lee Sin 0.030523
+Galio Lissandra Lee Sin 0.007267
+Kai'Sa Lissandra Lee Sin 0.005814
+Rek'Sai 0.113372
+Ryze Rek'Sai 0.013081
+Tahm Kench Rek'Sai 0.018895
+Lucian Rek'Sai 0.017442
+Lucian Braum Rek'Sai 0.007267
+Jayce Rek'Sai 0.011628
+Kai'Sa Rek'Sai 0.017442
+Galio Kai'Sa Rek'Sai 0.008721
+Rek'Sai Aatrox 0.005814
+Alistar Rek'Sai 0.005814
+Lissandra Rek'Sai 0.018895
+Braum Lissandra Rek'Sai 0.008721
+Braum Rek'Sai 0.023256
+Rek'Sai Zoe 0.017442
+Galio Rek'Sai Zoe 0.007267
+Galio Rek'Sai 0.024709
+Ezreal Rek'Sai 0.015988
+Ezreal Lissandra Rek'Sai 0.005814
+Nautilus 0.011628
+Alistar 0.117733
+Alistar Lee Sin 0.026163
+Alistar Kai'Sa Lee Sin 0.011628
+Alistar Aatrox 0.023256
+Alistar Kai'Sa Aatrox 0.005814
+Alistar Aatrox Lee Sin 0.005814
+Alistar Galio 0.010174
+Ryze Alistar 0.011628
+Alistar Jarvan IV 0.015988
+Alistar Kai'Sa 0.036337
+Alistar Jarvan IV Kai'Sa 0.007267
+Alistar Lissandra 0.013081
+Alistar Jarvan IV Lissandra 0.005814
+Alistar Lucian 0.010174
+Ezreal Alistar 0.013081
+Alistar Urgot 0.021802
+Alistar Urgot Lee Sin 0.008721
+Alistar Kai'Sa Urgot 0.008721
+Xayah 0.050872
+Xayah Urgot 0.013081
+Xayah Lee Sin 0.005814
+Xayah Lissandra 0.005814
+Galio Xayah 0.005814
+Xayah Rakan 0.031977
+Xayah Rakan Rek'Sai 0.007267
+Xayah Rakan Vladimir 0.007267
+Xayah Rakan Urgot 0.008721
+Irelia Xayah 0.005814
+Xayah Aatrox 0.007267
+Xayah Zoe 0.007267
+Ryze Xayah 0.005814
+Xayah Rek'Sai 0.010174
+Xayah Xin Zhao 0.005814
+Xayah Vladimir 0.010174
+Jayce Xayah 0.005814
+Kai'Sa 0.164244
+Jarvan IV Kai'Sa 0.027616
+Jarvan IV Galio Kai'Sa 0.007267
+Galio Kai'Sa 0.046512
+Kai'Sa Braum 0.018895
+Viktor 0.058140
+Ezreal Viktor 0.015988
+Galio Viktor 0.013081
+Viktor Lucian 0.005814
+Viktor Tahm Kench 0.015988
+Viktor Aatrox 0.005814
+Alistar Viktor 0.005814
+Viktor Lissandra 0.008721
+Jarvan IV Viktor 0.005814
+Viktor Braum 0.011628
+Viktor Olaf 0.010174
+Viktor Olaf Tahm Kench 0.005814
+Viktor Lee Sin 0.010174
+Viktor Urgot 0.017442
+Ezreal Viktor Urgot 0.005814
+Irelia Viktor 0.005814
+Ashe 0.063953
+Ashe Urgot 0.005814
+Olaf Ashe 0.010174
+Olaf Tahm Kench Ashe 0.005814
+Olaf Ashe Zoe 0.005814
+Ashe Lee Sin 0.013081
+Ashe LeBlanc 0.011628
+Tahm Kench Ashe LeBlanc 0.005814
+Lissandra Ashe 0.007267
+Tahm Kench Lissandra Ashe 0.005814
+Ryze Ashe 0.014535
+Ryze Tahm Kench Ashe 0.007267
+Tahm Kench Ashe 0.034884
+Tahm Kench Ashe Lee Sin 0.008721
+Rek'Sai Ashe 0.008721
+Tahm Kench Rek'Sai Ashe 0.007267
+Jayce Ashe 0.005814
+Ashe Zoe 0.013081
+Tahm Kench Ashe Zoe 0.005814
+Vladimir Ashe 0.007267
+Vladimir Tahm Kench Ashe 0.005814
+Braum Ashe 0.015988
+Veigar 0.005814
+Elise 0.034884
+Sion Elise 0.007267
+Ezreal Elise 0.007267
+Jayce Elise 0.017442
+Jayce Braum Elise 0.005814
+Aatrox Elise 0.007267
+Tahm Kench Elise 0.005814
+Braum Elise 0.005814
+Galio Elise 0.011628
+Kai'Sa Elise 0.005814
+Elise Urgot 0.007267
+Elise Kalista 0.008721
+Galio Elise Kalista 0.005814
+Zed 0.005814
+Vel'Koz 0.007267
+Renekton 0.018895
+Jarvan IV Renekton 0.007267
+Sylas Renekton 0.005814
+Braum Renekton 0.005814
+Galio Renekton 0.008721
+Irelia 0.065407
+Irelia Ezreal 0.005814
+Irelia Alistar 0.013081
+Irelia Kai'Sa 0.013081
+Irelia Lucian 0.007267
+Irelia Lee Sin 0.007267
+Irelia Jarvan IV 0.007267
+Ryze Irelia 0.008721
+Irelia Braum 0.010174
+Irelia Zoe 0.007267
+Irelia Rakan 0.007267
+Irelia Vladimir 0.011628
+Irelia Galio 0.008721
+Irelia Olaf 0.007267
+Irelia Tahm Kench 0.008721
+Irelia Gragas 0.007267
+Sejuani 0.043605
+Sejuani Sivir 0.005814
+Sejuani Kai'Sa 0.005814
+Sejuani Rakan 0.005814
+Sejuani Akali 0.005814
+Sejuani Irelia 0.011628
+Sejuani Irelia Vladimir 0.005814
+Sejuani Tahm Kench 0.007267
+Sejuani Lissandra 0.005814
+Sejuani Braum 0.008721
+Sejuani Vladimir 0.007267
+Ryze Sejuani 0.007267
+Sejuani Sion 0.008721
+Sejuani Ezreal 0.008721
+Sejuani Urgot 0.005814
+Sejuani Lucian 0.005814
+Taliyah 0.026163
+Alistar Taliyah 0.008721
+Taliyah Kalista 0.005814
+Jarvan IV Taliyah 0.007267
+Taric 0.014535
+Camille 0.031977
+Ezreal Camille 0.010174
+Ezreal Tahm Kench Camille 0.005814
+Jayce Camille 0.005814
+Aatrox Camille 0.007267
+Galio Camille 0.010174
+Lucian Camille 0.007267
+Tahm Kench Camille 0.005814
+Thresh Camille 0.005814
+Fiddlesticks 0.007267
+Ryze 0.126453
+Ryze Ezreal 0.017442
+Ryze Ezreal Tahm Kench 0.005814
+Ryze Jarvan IV 0.018895
+Ryze Jarvan IV Braum 0.005814
+Ryze Braum 0.029070
+Ryze Galio 0.018895
+Ryze Kai'Sa 0.017442
+Ryze Aatrox 0.014535
+Ryze Aatrox Lee Sin 0.005814
+Ryze Urgot 0.011628
+Ryze Tahm Kench Urgot 0.007267
+Ryze Tahm Kench 0.026163
+Ryze Tahm Kench Lee Sin 0.007267
+Ryze Lee Sin 0.026163
+Ryze Galio Lee Sin 0.005814
+Ryze Lucian 0.021802
+Ryze Lucian Braum 0.010174
+Ryze Jarvan IV Lucian 0.007267
+Tristana 0.027616
+Tristana Aatrox 0.008721
+Jarvan IV Tristana 0.005814
+Jarvan IV Tristana Galio 0.005814
+Tristana Galio 0.010174
+Tristana Braum 0.007267
+Kalista 0.084302
+Aatrox Kalista 0.007267
+Kalista Lee Sin 0.014535
+Galio Kalista Lee Sin 0.005814
+Rek'Sai Kalista 0.010174
+Galio Rek'Sai Kalista 0.005814
+Braum Kalista 0.010174
+Alistar Kalista 0.008721
+Jarvan IV Kalista 0.020349
+Jarvan IV Galio Kalista 0.010174
+Zoe Kalista 0.010174
+Urgot Kalista 0.011628
+Galio Urgot Kalista 0.007267
+Lissandra Kalista 0.014535
+Olaf Kalista 0.010174
+Galio Kalista 0.031977
+Jayce Kalista 0.010174
+Ryze Kalista 0.007267
+Thresh Kalista 0.021802
+Jayce Thresh Kalista 0.007267
+Jarvan IV Thresh Kalista 0.005814
+Thresh Kalista Lee Sin 0.005814
+Nocturne 0.055233
+Kennen Nocturne 0.005814
+Thresh Nocturne 0.005814
+Ezreal Nocturne 0.008721
+Nocturne Sion 0.005814
+Viktor Nocturne 0.005814
+Nocturne Lissandra 0.011628
+Braum Nocturne 0.011628
+Nocturne LeBlanc 0.007267
+Rakan Nocturne 0.005814
+Akali Nocturne 0.005814
+Galio Nocturne 0.018895
+Vladimir Nocturne 0.007267
+Nocturne Urgot 0.011628
+Kai'Sa Nocturne Urgot 0.005814
+Ryze Nocturne 0.005814
+Lucian Nocturne 0.005814
+Kai'Sa Nocturne 0.015988
+Galio Kai'Sa Nocturne 0.007267
+Nocturne Zoe 0.007267
+Nocturne Zoe Urgot 0.005814
+Zilean 0.011628
+Lee Sin 0.158430
+Braum Lee Sin 0.027616
+Kai'Sa Lee Sin 0.031977
+Galio Lee Sin 0.029070
+Gnar 0.014535
+Jarvan IV Gnar 0.005814
+Bard 0.005814
+Lucian 0.143895
+Galio Lucian 0.024709
+Galio Lucian Braum 0.005814
+Lucian Lissandra 0.027616
+Jarvan IV Lucian Lissandra 0.008721
+Lucian Braum Lissandra 0.010174
+Lucian Lee Sin 0.013081
+Lucian Tahm Kench 0.005814
+Lucian Braum 0.053779
+Jarvan IV Lucian 0.026163
+Jarvan IV Lucian Braum 0.011628
+Ornn 0.026163
+Braum Ornn 0.007267
+Ornn Rek'Sai 0.005814
+Lucian Ornn 0.008721
+Trundle 0.008721
+Urgot 0.142442
+Urgot Lee Sin 0.033430
+Galio Urgot Lee Sin 0.007267
+Kai'Sa Urgot Lee Sin 0.010174
+Braum Urgot Lee Sin 0.005814
+Galio Urgot 0.018895
+Braum Urgot 0.023256
+Lissandra Urgot 0.021802
+Kai'Sa Lissandra Urgot 0.007267
+Lissandra Urgot Lee Sin 0.008721
+Kai'Sa Urgot 0.029070
+Lucian Urgot 0.011628
+Jarvan IV Urgot 0.008721
+Tahm Kench Urgot 0.027616
+Ezreal Urgot 0.026163
+Ezreal Braum Urgot 0.007267
+Ezreal Lissandra Urgot 0.007267
+Ezreal Tahm Kench Urgot 0.008721
+Jinx 0.013081
+Jarvan IV Jinx 0.005814
+Thresh 0.106105
+Thresh Aatrox 0.017442
+Thresh Zoe 0.014535
+Galio Thresh 0.008721
+Thresh Lissandra 0.011628
+Jarvan IV Thresh 0.018895
+Ezreal Thresh 0.008721
+Ryze Thresh 0.013081
+Thresh Urgot 0.017442
+Thresh Lucian 0.021802
+Kai'Sa Thresh 0.014535
+Jayce Thresh 0.018895
+Thresh Rek'Sai 0.013081
+Thresh Vladimir 0.008721
+Thresh Lee Sin 0.011628
